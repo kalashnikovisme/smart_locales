@@ -14,7 +14,7 @@ module SmartLocales::Title::Helper
     t('.title')
   end
 
-  def page_title(action, model_name)
-    t("helpers.actions.#{action}") + ' ' + genitive(model_name)
+  def page_title(action, genitive_model_name)
+    t("helpers.actions.#{action}") + ' ' + genitive_model_name
   end
 end
