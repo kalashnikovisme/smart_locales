@@ -1,5 +1,8 @@
 ru:
   helpers:
+    links:
+      save: Сохранить
+      back: Назад
     actions:
       create: Создать
       new: Создать
