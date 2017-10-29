@@ -1,0 +1,8 @@
+ru:
+  helpers:
+    actions:
+      create: Создать
+      new: Создать
+      edit: Редактировать
+      update: Редактировать
+      delete: Удалить
