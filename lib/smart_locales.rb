@@ -1,4 +1,5 @@
 require "smart_locales/version"
+require "smart_locales/title"
 require "smart_locales/title/helper"
 
 module SmartLocales

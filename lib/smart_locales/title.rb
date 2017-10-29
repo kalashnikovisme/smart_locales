@@ -1,0 +1,2 @@
+module SmartLocales::Title
+end
