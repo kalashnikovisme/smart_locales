@@ -15,6 +15,6 @@ module SmartLocales::Title::Helpers
   end
 
   def page_title(action, genitive_model_name)
-    t("helpers.actions.#{action}") + ' ' + genitive_model_name
+    t("helpers.actions.#{action}") + ' ' + genitive_model_name.underscore
   end
 end
